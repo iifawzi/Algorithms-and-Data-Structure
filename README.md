@@ -18,6 +18,10 @@ Note: All of these problems are solved by me, some of them are already tested wh
 
 | Problem | Description |
 | :---:   | :---: |
-| [Money Change.java](https://github.com/iifawzi/Algorithms-and-Data-Structure-/blob/master/Greedy%20Algorithms/money%20change/Change.java) | The goal in this problem is to find the minimum number of coins needed to change the input value (an integer) into coins with denominations 1, 5, and 10. |
-| [Maximum Value of the Loot.java](https://github.com/iifawzi/Algorithms-and-Data-Structure-/blob/master/Greedy%20Algorithms/maximum%20value%20of%20the%20loot/fractional_knapsack.java) | The goal of this code problem is to implement an algorithm for the fractional knapsack problem|
-| [Maximum Advertisement Revenue.java](https://github.com/iifawzi/Algorithms-and-Data-Structure-/blob/master/Greedy%20Algorithms/maximum%20advertisement%20revenue/DotProduct.java) |Given two sequences 𝑎1,𝑎2,...,𝑎𝑛 (𝑎𝑖 is the profit per click of the 𝑖-th ad) and 𝑏1,𝑏2,...,𝑏𝑛 (𝑏𝑖 is the average number of clicks per day of the 𝑖-th slot), we need to partition them into 𝑛 pairs (𝑎𝑖,𝑏𝑗) such that the sum of their products is maximized|
+| [Money Change.java](https://github.com/iifawzi/Algorithms-and-Data-Structure-/blob/master/Greedy%20Algorithms/money%20change/Change.java) | The goal in this problem is to find the minimum number of coins needed to change the input value (an integer) 
+into coins with denominations 1, 5, and 10. |
+| [Maximum Value of the Loot.java](https://github.com/iifawzi/Algorithms-and-Data-Structure-/blob/master/Greedy%20Algorithms/maximum%20value%20of%20the%20loot/fractional_knapsack.java) | The goal of this code problem is to implement an algorithm 
+for the fractional knapsack problem|
+| [Maximum Advertisement Revenue.java](https://github.com/iifawzi/Algorithms-and-Data-Structure-/blob/master/Greedy%20Algorithms/maximum%20advertisement%20revenue/DotProduct.java) |Given two sequences 𝑎1,𝑎2,...,𝑎𝑛 (𝑎𝑖 is the profit per click of the 𝑖-th ad) and 𝑏1,𝑏2,...,𝑏𝑛 (𝑏𝑖 is the average number of 
+clicks per day of the 𝑖-th slot), we need to partition them into 𝑛 pairs 
+(𝑎𝑖,𝑏𝑗) such that the sum of their products is maximized|
