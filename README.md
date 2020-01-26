@@ -38,11 +38,11 @@ Note: All of these problems are solved by me, some of them are already tested wh
 | [Money Change.java](https://github.com/iifawzi/Algorithms-and-Data-Structure-/blob/master/Dynamic%20programming/Money%20Change/ChangeDP.java) |As we already know, a natural greedy strategy for the change problem does not work correctly for any set of denominations. For example, if the available denominations are 1, 3, and 4, the greedy algorithm will change 6 cents using three coins (4 + 1 + 1) while it can be changed using just two coins (3 + 3).The goal now is to apply dynamic programming for solving the Money Change Problem for denominations 1, 3, and 4.|
 | [Primitive Calculator.java](https://github.com/iifawzi/Algorithms-and-Data-Structure-/blob/master/Dynamic%20programming/Primitive%20Calculator/PrimitiveCalculator.java) | Given an integer 𝑛, compute the minimum number of operations needed to obtain the number 𝑛 starting from the number 1|
 | [Maximum Amount of Gold.java](https://github.com/iifawzi/Algorithms-and-Data-Structure/blob/master/Dynamic%20programming/maximum%20amount%20of%20gold/Knapsack.java) |Given 𝑛 gold bars, find the maximum weight of gold that fits into a bag of capacity 𝑊 |
-| [Partitioning Souvenirs.java](https://github.com/iifawzi/Algorithms-and-Data-Structure/blob/master/Dynamic%20programming/partitioning%20souvenirs/Partition3.java) |In this problem you will implement a feature for a text editor to find errors in the usage of brackets in the code.|
+| [Partitioning Souvenirs.java](https://github.com/iifawzi/Algorithms-and-Data-Structure/blob/master/Dynamic%20programming/partitioning%20souvenirs/Partition3.java) |You and two of your friends have just returned back home after visiting various countries. Now you would like to evenly split all the souvenirs that all three of you bought.|
 
 
 ## Basic Data Structure : 
 
 | Problem | Description |
 | :---:   | :---: |
-| [Check brackets in the code.py](https://github.com/iifawzi/Algorithms-and-Data-Structure/blob/master/Data%20Structure/Check%20brackets/check_brackets.py)|  |
+| [Check brackets in the code.py](https://github.com/iifawzi/Algorithms-and-Data-Structure/blob/master/Data%20Structure/Check%20brackets/check_brackets.py)| In this problem you will implement a feature for a text editor to find errors in the usage of brackets in the code. |
