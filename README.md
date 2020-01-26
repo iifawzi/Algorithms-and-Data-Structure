@@ -9,4 +9,4 @@ Note: All of this problems are solved by me, some of them are already tested whi
 | Problem | Description |
 | :---:   | :---: |
 | [Maximum Pairwise Product](https://github.com/iifawzi/Algorithms-and-Data-Structure-/blob/master/Algorithmic%20Warmup/max%20pairwise%20product/max_pairwise_product.js) | Find the maximum product of two distinct numbers in a sequence of non-negative integers |
-| [Finding the Greatest Common Divisor](https://github.com/iifawzi/Algorithms-and-Data-Structure-/blob/master/Algorithmic%20Warmup/greatest%20common%20factor/gcd.js) ||
+| [Finding the Greatest Common Divisor](https://github.com/iifawzi/Algorithms-and-Data-Structure-/blob/master/Algorithmic%20Warmup/greatest%20common%20divisor/gcd.js) ||
