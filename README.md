@@ -1,7 +1,7 @@
 ## Algorithms and Data Structure Problems Using Java, Python,JS..... 
 #### a little progress every day adds up to big results!
 
-Note: All of this problems are solved by me, some of them are already tested while studying in coursera or while participating in contests. 
+Note: All of these problems are solved by me, some of them are already tested while studying in coursera or while participating in contests. 
 
 
 ## Warm Up Problems: 
