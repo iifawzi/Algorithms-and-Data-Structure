@@ -1,6 +1,5 @@
 #python3
 import sys
-
 class StackWithMax():
     def __init__(self):
         self.__stack = []
