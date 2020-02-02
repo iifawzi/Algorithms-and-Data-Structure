@@ -48,4 +48,5 @@ Note: All of these problems are solved by me, some of them are already tested wh
 | [Check brackets in the code.py](https://github.com/iifawzi/Algorithms-and-Data-Structure/blob/master/Data%20Structure/Check%20brackets/check_brackets.py)| In this problem you will implement a feature for a text editor to find errors in the usage of brackets in the code. |
 | [Extending stack interface.py](https://github.com/iifawzi/Algorithms-and-Data-Structure/blob/master/Data%20Structure/stack%20with%20max/stack_with_max_naive.py)| Implement a stack supporting the operations Push(), Pop(), and Max(). |
 | [Phone Book.py](https://github.com/iifawzi/Algorithms-and-Data-Structure/blob/master/Data%20Structure/Phone%20book/phone_book.py)| goal is to implement a simple phone book manager. Using direct addressing |
+| [Hash Substring.py](https://github.com/iifawzi/Algorithms-and-Data-Structure/blob/master/Data%20Structure/hash%20Substring/hash_substring.py)| implementation of Rabin–Karp’s algorithm. |
 
